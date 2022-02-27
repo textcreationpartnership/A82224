@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the proceedings of the New Moddell'd Army in the kingdome of Scotland, against the Irish army, under the command of Generall Kilketto; declaring the manner of their retreat to the mountaines, and the warlike preparations of the northern army, by cutting passages, and planting of ordnance. Whereunto is annexed, the new oath taken by the Scottish chivalry, concerning the kingdome of England, and Generall Kilketto: together, with their resolution and proceedings thereupon. Published by authority; and communicated to the English chivalry, for generall satisfaction of the kingdome of England, March. 1. 1647.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82224</idno>
+            <idno type="STC">Wing D751</idno>
+            <idno type="STC">Thomason E378_11</idno>
+            <idno type="STC">ESTC R201380</idno>
+            <idno type="EEBO-CITATION">99861901</idno>
+            <idno type="PROQUEST">99861901</idno>
+            <idno type="VID">159969</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159969)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E378[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the proceedings of the New Moddell'd Army in the kingdome of Scotland, against the Irish army, under the command of Generall Kilketto; declaring the manner of their retreat to the mountaines, and the warlike preparations of the northern army, by cutting passages, and planting of ordnance. Whereunto is annexed, the new oath taken by the Scottish chivalry, concerning the kingdome of England, and Generall Kilketto: together, with their resolution and proceedings thereupon. Published by authority; and communicated to the English chivalry, for generall satisfaction of the kingdome of England, March. 1. 1647.</title>
+                  <author>Bode, W., fl. 1646.</author>
+                  <author>W. C.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Printed anno Domini, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of two letters; the first is dated and signed: Barwick Feb. 22. 1646. W. Bode; the second is dated and signed: Nottingham, Feb. 19. W. C.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "feb: 27 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  History.</term>
+               <term>Oaths --  Scotland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159969:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Proceedings of the New Moddel'd Army in the Kingdome of Scotland, againſt the Iriſh Army un<g ref="char:EOLhyphen"/>der the Command of Generall <hi>Kilketto;</hi> Declaring the manner of their retreat to the Mountaines, and the Warlike Preparations of the Nor<g ref="char:EOLhyphen"/>thern Army, by cutting off Paſſages, and planting of Ordnance.</p>
+            <p>Whereunto is annexed, the New Oath taken by the Scottiſh Chivalry, concerning the Kingdome of England, and Generall Kilketto: Together, with their reſolution and proceedings there<g ref="char:EOLhyphen"/>upon.</p>
+            <p>PUbliſhed by Authority; And communica<g ref="char:EOLhyphen"/>ted to the Engliſh Chivalry, for generall ſatisfaction of the Kingdome of <hi>England, March.</hi> 1. 1647.</p>
+            <p>
+               <hi>LONDON:</hi> Printed <hi>Anno Domini,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159969:2" rendition="simple:additions"/>
+            <pb facs="tcp:159969:2"/>
+            <head>A TRVE RELATION OF The proceedings and advance of the Scottiſh Army, towards the North of <hi>Scotland,</hi> un<g ref="char:EOLhyphen"/>der the Command of his Excellency Generall <hi>Leven.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y beſt reſpects to you recommended &amp;c. Yours, by the laſt, I received, &amp; the incloſed papers; and according to your requeſt, I thought it requi<g ref="char:EOLhyphen"/>ſite, to ſatisfie your deſire, concerning the pro<g ref="char:EOLhyphen"/>ceedings of the new modelled army in Scot<g ref="char:EOLhyphen"/>land,
+<pb facs="tcp:159969:3"/>upon their Deſign Northwards, againſt <hi>Kilketto</hi> and his adherents, who not long ſince, were within thirty miles of the City of <hi>Edenburgh<g ref="char:punc">▪</g>
+               </hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lundering moſt of the Inha<g ref="char:EOLhyphen"/>bitants thereabouts, and driving many Heads of Cattel towards the North; but were fru<g ref="char:EOLhyphen"/>ſtrated of their Deſigne: for, upon an alarum, that Lieutenant Generall <hi>David Leſley,</hi> and Major Generall <hi>Brown,</hi> were advanced over <hi>Tweed,</hi> and upon their march towards the North of that Kingdom, with a ſtrong par<g ref="char:EOLhyphen"/>ty of Horſe and Dragoons, immediatly took his retreat towards the North, leaving moſt of the Cattell behind him.</p>
+            <p>
+               <hi>Sir,</hi> not long ſince, Major Generall <hi>Mid<g ref="char:EOLhyphen"/>dleton</hi> fell upon a party of the <hi>Kilkettonians,</hi> as they were ranging the Country, killed many of them, and took divers priſoners, and ſome few dayes after that, he fell upon two or three Garriſons, which were kept by the Iriſh Rebels, ſtormed them, and put ma<g ref="char:EOLhyphen"/>ny to the ſword.</p>
+            <p>
+               <hi>Kilketto</hi> is ſuppoſed to be about foure thouſand ſtrong, his army conſiſting of one thouſand Horſe, and three thouſand Foot, moſt of them compleatly armed, and very
+<pb facs="tcp:159969:3"/>expert Souldiers; yet ſome what timerous of ſpirit, and fearfull of maintaining the Holds, now in their poſſeſſion: for, by a Meſſenger from thoſe parts, it is declared un<g ref="char:EOLhyphen"/>to us, that the Iriſh have deſerted ſeverall Garriſons, and have drawn up their whole Body towards the high Mountaines, fortify<g ref="char:EOLhyphen"/>ing, and planting their Ordnance, upon ſeve<g ref="char:EOLhyphen"/>rall convenient Hills, cutting off ſeveral paſ<g ref="char:EOLhyphen"/>ſages, and making great preparations of war, yet (its verily believed) to little purpoſe; for Lieutenant Generall <hi>David Leſley,</hi> lets no opportunity ſlip, for the putting an end and period to the diſtractions of that King<g ref="char:EOLhyphen"/>dome, having declared himſelf very nobly &amp; gallantly to the new modelled army for the expediting of that Deſigne, by incouraging the Souldiery, who have expreſſed them<g ref="char:EOLhyphen"/>ſelves freely and reſolutely to their Gene<g ref="char:EOLhyphen"/>rall; ſaying, they will live and dye with him, and hazzard both life &amp; limbes againſt the publike enemy of both Kingdomes. Thus (in briefe) have <hi>I</hi> given you, an exact rela<g ref="char:EOLhyphen"/>tion, of the <hi>Occurrences of Scotland,</hi> remaining</p>
+            <closer>
+               <dateline>Barwick <date>Feb. 22.</date>
+               </dateline>
+               <signed>Your affectionate Friend <hi>W. Bode</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:159969:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>Thurſday the 11. inſtant, the Rear of the Scotch Army marched over Tweed at Kel<g ref="char:EOLhyphen"/>ſey and Barwick, and the next day the town of Barwick was quitted, and the Gariſon diſ<g ref="char:EOLhyphen"/>mantled, according to agreement: the ſixe Regiments of their horſe, which were ap<g ref="char:EOLhyphen"/>pointed to disband, had their Rendezvouz at Kelſey, where they were required. 1. To de<g ref="char:EOLhyphen"/>liver up their Armes. 2. To take an oath to this effect: <hi>To offer no injury to the Country in their paſſage to their ſeverall Homes; to bee faithfull to the Covenant and cauſe of both King<g ref="char:EOLhyphen"/>doms, and not to ingage with any againſt them: At firſt, they refuſed; but at laſt were induced to accept of them; partly by the meanes of their Lieut Gen. David Leſly, and partly by the in<g ref="char:EOLhyphen"/>citements of their Miniſters.</hi>
+            </p>
+            <p>Both of theſe were neceſſary, if we conſi<g ref="char:EOLhyphen"/>der the conſtitution of ſome of thoſe who were disbanded, who reſolved to joyne with Kilketto, being much incenſed at their pro<g ref="char:EOLhyphen"/>ceeding.</p>
+            <pb facs="tcp:159969:4"/>
+            <p> Vpon the taking the Oath, and delivering up their piſtols, they had pay upon the place, ſome one, ſome two, ſome 3 moneths pay, according to the yeares of their ſervice. This done, the Lieut. Gen. very nobly &amp; free<g ref="char:EOLhyphen"/>ly required of them, if they had any thing to ſay of him, or any other of their Officers; they anſwered no: thereupon they broke the Standards of every Regiment, and ſo were all diſpierced towards their ſeverall homes; except thoſe who were ſelected for a New Model, who choſe the beſt piſtols (of thoſe delivered up) for themſelves. Moſt of theſe are of the Arguile party, officers and ſouldi<g ref="char:EOLhyphen"/>trs, yet ſome of them unwilling to continue in arms.</p>
+            <p>The new Model is fourteen hundred Horſe, and five thouſand Foot. The Hamiltonians are much diſcontented at this.</p>
+            <p>
+               <hi>I</hi> might acquaint you with the ſpoyl and plunder they made in Northumberland, and their not paying of quarters from the com<g ref="char:EOLhyphen"/>ming of the firſt 100000. l. till this time; but I had rather theſe and the like complements were buried: there will be diſorders in the beſt governed Bodies, Courts, Camps, City, &amp;
+<pb facs="tcp:159969:5"/>Country, none are exempted: the beſt In<g ref="char:EOLunhyphen"/>ſtrument is ſomtimes out of tune: Love co<g ref="char:EOLhyphen"/>vereth a multitude of ſins: its the want of that which firſt occaſions the offence; and then in others raiſes ſlanders, whence ariſe all the clamors and ſcandals againſt this Army, but only from want of affections: ſure the army hath deſerved better from them, and might have had better words a yeare ſince when an Enemy was in the field. <hi>But now the work is done, how are they ſlighted: the generall cry is now for a disbanding; and for my part (&amp; I thinke divers others of quality in the Army would be of my mind) it ſhould be the firſt thing I would petition for, ſeeing now it is only ſet up as a marke for every tongue ſet on fire to dart forth their malice againſt, and every Malignant Prieſt, and upstart Levite, to raiſe and write ſlanders, to fill Gangrenaes Volumes. Sir, I have no more at preſent, only I remain,</hi>
+            </p>
+            <closer>
+               <dateline>Nottingham, <date>Feb. 19.</date>
+               </dateline>
+               <signed>Your affectionate friend, W. C.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
